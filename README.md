@@ -1,4 +1,4 @@
-# Compliment Generator - Social Good App
+# Complim - Social Good App
 
 A mobile/web application that allows users to anonymously send compliments to nearby people based on geolocation, featuring gamification with kindness scores, badges, and leaderboards.
 
@@ -59,24 +59,24 @@ REACT_APP_API_URL=http://localhost:8000
 ## Features
 
 ### Phase 1: Core MVP
-- ✅ Anonymous Firebase authentication
-- ✅ SQLite database with user/compliment tables
-- ✅ Basic compliment sending/receiving
-- ✅ Geolocation-based user discovery
-- ✅ Real-time WebSocket notifications
-- ✅ Kindness score tracking
+-  Anonymous Firebase authentication
+-  SQLite database with user/compliment tables
+-  Basic compliment sending/receiving
+-  Geolocation-based user discovery
+-  Real-time WebSocket notifications
+-  Kindness score tracking
 
 ### Phase 2: Gamification
-- ✅ Badge system with achievements
-- ✅ Daily streak tracking
-- ✅ Local/global leaderboards
-- ✅ Score multipliers and bonuses
+-  Badge system with achievements
+-  Daily streak tracking
+-  Local/global leaderboards
+-  Score multipliers and bonuses
 
 ### Phase 3: Advanced Features
-- ✅ Gemini AI content moderation
-- ✅ Media attachment support
-- ✅ Firebase Analytics integration
-- ✅ Advanced gamification mechanics
+-  Gemini AI content moderation
+-  Media attachment support
+-  Firebase Analytics integration
+-  Advanced gamification mechanics
 
 ## API Endpoints
 
