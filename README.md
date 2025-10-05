@@ -1,4 +1,4 @@
-# Complim - Social Good App
+# Complish - Social Good App
 
 A mobile/web application that allows users to anonymously send compliments to nearby people based on geolocation, featuring gamification with kindness scores, badges, and leaderboards.
 
